@@ -44,7 +44,7 @@ VALUES
 ('chleb', 'pieczywo', 3, 1.2, 23),
 ('płatki owsiane 0.5kg', 'nasiona', 2.25, 1.45, 23),
 ('płatki owskiane 1kg', 'nasiona', 4, 2.4, 23),
-('mleko', ' nabiał', 3.5, 2, 23),
+('mleko', 'nabiał', 3.5, 2, 23),
 ('jogurt "Danone"', 'nabiał', 3.5, 2, 23),
 ('woda gazowana', 'napoje', 1.9, 1, 23),
 ('woda niegazowana', 'napoje', 1.9, 1 , 23),
